@@ -1,1 +1,3 @@
 # Password-Generator
+
+This project is designed to generate a random password based on criteria selected by the user when pressing the generate password button. The password can consist of lower case letters, upper case letters, numbers, and/or special characters. The user also selects a desired password length that must be between 8 and 128 characters long. Failure to input a number between 8 and 128 will prompt the program to ask again until an acceptable length is selected. Once all criteria are selected, the program will use a random number selector to pick characters from the proper character sets and display them in the password box on screen.
